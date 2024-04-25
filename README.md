@@ -1,5 +1,6 @@
 # Randomly_Jock_Application
 simple joke-telling application that randomly selects a joke from an array and presents it to the user.
+
 step1:-
 Header Files: The application contains three standard C library header files.
 stdio.h: Used for input and output operations.
